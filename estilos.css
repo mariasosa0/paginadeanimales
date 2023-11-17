@@ -1,0 +1,22 @@
+body{
+    background-color: beige;
+    color: rgb(68, 58, 58);
+    font-family: 'Lora', serif;
+}
+
+<!--Todo lo que dice h1 tendrá ese color-->
+h1, p{
+    color:rgb(30, 26, 20)
+}
+
+h3{
+    color:rgb(95, 83, 67)
+}
+
+.img1 {
+    width:200px;
+    height: 200px;
+    border-style: double;
+    border-color:rgb(84, 74, 61)
+}
+
